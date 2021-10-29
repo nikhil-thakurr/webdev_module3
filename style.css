@@ -1,0 +1,23 @@
+.menu-heading{
+    text-align: center;
+    /* font-size: small; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+}
+.menu-item{
+    background-color: burlywood;
+    text-align: center;
+    padding: 5px 0px;
+    margin-top: 40px;
+}
+
+.menu-item-heading{
+    color: brown;
+    padding: 10px;
+    font-weight: 700;
+}
+.menu-body{
+    text-align: left;
+    padding: 5px 10px;
+    font-weight: 500;
+}
